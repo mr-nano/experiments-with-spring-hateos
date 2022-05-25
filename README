@@ -1,3 +1,4 @@
 planning to leaern hateos implementation in spring - https://spring.io/guides/gs/rest-hateoas/ 
 - also insall java 8 : https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
 - some issue with alternative for java not registered; not setting - https://www.srv24x7.com/java-for-java-not-registered-not-setting/
+- and then had to set java home as well for gradle to pick it
