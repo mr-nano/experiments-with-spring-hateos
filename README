@@ -2,3 +2,5 @@ planning to leaern hateos implementation in spring - https://spring.io/guides/gs
 - also insall java 8 : https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
 - some issue with alternative for java not registered; not setting - https://www.srv24x7.com/java-for-java-not-registered-not-setting/
 - and then had to set java home as well for gradle to pick it
+- finsihed the tutorial.. one problem is the spring server is running locally instead of being able to access through browser... (compared to python http.server)... 
+- also tutorial was okay and didn't get into how client will actually use the hateoas implementation
